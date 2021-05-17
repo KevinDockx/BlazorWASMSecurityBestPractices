@@ -1,4 +1,4 @@
-# Blazor WASM: Security Best Practice
+# Blazor WASM: Security Best Practices
 Sample showing a best practice security approach for Blazor WASM apps via the BFF pattern.  To run the sample, ensure all three solutions (IDP, API, BlazorBFF) are started.  
 
 - Marvin.IDP: the OIDC identity provider
